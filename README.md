@@ -1,4 +1,11 @@
-To start this project, before add config file and add your mongoDB URI
+This Project is done in 
+Backend - Node.Js
+FrameWork - Express.Js
+FrontEnd - HTML, CSS
+DataBase - MongoDB
+
+To start this project,
+before add config file and add your mongoDB URI
 
 To run this project
 
